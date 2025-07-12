@@ -1,64 +1,64 @@
-# HealthcareKiosk
-India's digital healthcare transformation is accelerating, but key challenges remain in rural outreach, interoperability, and clinical resource optimization. This project envisions a next-generation AI-Powered Healthcare Kiosk, designed to deliver inclusive, intelligent, and accessible healthcare services across India.
+# 🏥 AI-Powered Healthcare Kiosk System
 
-Objectives
-Deploy AI-powered kiosks aligned with ABDM, DHIS, and PM-JAY frameworks.
+A next-gen AI-powered healthcare kiosk concept developed under the **Intel Unnati Industrial Training 2025** initiative. The system is designed to enhance grassroots healthcare delivery in India using cutting-edge technologies like AI/ML, Federated Learning, Computer Vision, and secure integration with India’s Digital Public Infrastructure (**India Stack**).
 
-Integrate facial recognition-based check-ins, AI-driven symptom analysis, and multilingual LLM chatbots.
+---
 
-Utilize Federated Learning to enable privacy-preserving, on-device AI model training.
+## 📌 Project Overview
 
-Seamlessly integrate with India Stack for identity verification (ABHA), payments (UPI), and health data exchange.
+India is undergoing a massive digital transformation in healthcare. However, critical gaps still exist in rural accessibility, data interoperability, diagnostic support, and doctor-to-patient ratios. This project aims to:
 
-🧠 Key Technologies
-Artificial Intelligence / Machine Learning
+- Develop an enhanced **Healthcare Kiosk** that aligns with **ABDM**, **DHIS**, and **PM-JAY**
+- Integrate **AI-powered features** like symptom analysis, face-ID check-in, multilingual chatbot
+- Utilize **Federated Learning** to ensure private, decentralized AI training
+- Leverage **India Stack** components for authentication, payments, and health data exchange
 
-Federated Learning for privacy-first AI model updates
+---
 
-Computer Vision (Face ID Recognition)
+## 🔧 Key Technologies
 
-Natural Language Processing (LLMs in Indian languages)
+- **Artificial Intelligence / Machine Learning**
+- **Federated Learning**
+- **Computer Vision (Face Recognition)**
+- **Natural Language Processing (LLMs in Indian Languages)**
+- **OpenVINO / Intel OneAPI**
+- **e-Sanjeevani Telemedicine Integration**
+- **ABDM APIs, India Stack Integration**
 
-OpenVINO™ / Intel® OneAPI for AI inference optimization
+---
 
-e-Sanjeevani Telemedicine Integration
+## 🏗️ Architecture Summary
 
-ABDM APIs and India Stack (DigiLocker, Aadhaar, UPI, Consent Manager)
+The AI-enhanced healthcare kiosk will support:
+- Real-time vital capture and AI analysis
+- Face ID-based secure check-ins
+- ABHA-linked EHR retrieval
+- Teleconsultation with remote doctors
+- Consent-based federated AI model updates
+- Multilingual patient interaction with LLM
 
-🏗️ System Architecture
-The AI-Powered Healthcare Kiosk will feature:
+---
 
-📷 Facial Recognition-based Secure Check-in
+## 📋 Features
 
-🩺 Real-Time Vital Monitoring & AI-Powered Symptom Analysis
+| Feature                              | Status        |
+|--------------------------------------|---------------|
+| Walk-in Appointment Booking          | ✅ Existing    |
+| UPI/Card-Based Payment               | ✅ Existing    |
+| Vital Monitoring                     | ✅ Existing    |
+| Face ID Recognition Check-in         | 🟡 Proposed    |
+| AI-Based Preliminary Diagnosis       | 🟡 Proposed    |
+| Multilingual Chatbot (LLM)           | 🟡 Proposed    |
+| EHR Access via ABHA                  | 🟡 Proposed    |
+| Integration with e-Sanjeevani        | 🟡 Proposed    |
+| Federated Learning Support           | 🟡 Proposed    |
+| Research Consent Management          | 🟡 Proposed    |
 
-📂 ABHA-linked Electronic Health Record (EHR) Retrieval
+---
 
-💬 Multilingual LLM-based Conversational Interface
+## 👥 Contributors
 
-📞 Remote Doctor Consultations via e-Sanjeevani
-
-🧠 Federated Learning for Continuous Model Improvement
-
-✅ Consent-based Data Sharing & Model Updates
-
-📋 Feature Matrix
-Feature	Status
-Walk-in Appointment Booking	✅ Implemented
-UPI/Card-Based Payment	✅ Implemented
-Vital Monitoring & Health Metrics	✅ Implemented
-Face ID Recognition Check-in	🟡 In Progress
-AI-Based Preliminary Diagnosis	🟡 In Progress
-Multilingual Chatbot (LLM)	🟡 In Progress
-EHR Access via ABHA	🟡 In Progress
-Integration with e-Sanjeevani	🟡 In Progress
-Federated Learning Support	🟡 In Progress
-Research Consent & Data Management	🟡 In Progress
-
-👨‍💻 Team & Contributors
-shivali dhumal - shivalidhumal@gmail.com
-arpita lohar - arpitalohar300@gmail.com
-ankita Gaikwad - ankitagaik123@gmail.com
-omkar Phadtar - phadtareomkar889@gmail.com
-
-
+- **Aniket Pawar** – aniketspawar3031@gmail.com
+- **Anirudhha Pardeshi** – anirudhpardeshi25@gmail.com
+- **Vedant Kumbhar** – vedant.kumbhar013@gmail.com
+- **Loukik Ingale** – loukikingale2003@gmail.com
