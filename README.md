@@ -58,8 +58,8 @@ The AI-enhanced healthcare kiosk will support:
 
 ## 👥 Contributors
 
-- **arpita lohar** – arpita Namdev Lohar
-- **Shivali dhumal** – shivali Shashikant Dhumal
+- **arpita lohar** – arpitalohar300@gmail.com
+- **Shivali dhumal** – shivalidhumal@gmail.com
 - **Ankita gaikwad** – ankitagaik123@gmail.com
 - **omkar phadtar** – phadtareomkar889@gmail.com
 - 
